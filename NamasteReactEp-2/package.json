@@ -1,0 +1,19 @@
+{
+  "name": "namastereactep-2",
+  "version": "1.0.0",
+  "description": "In this we are going to configure our app using npm and using some packages/dependencies.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityag28/NAMASTE-REACT.git#main"
+  },
+  "author": "Aditya Gaikwad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityag28/NAMASTE-REACT/issues"
+  },
+  "homepage": "https://github.com/adityag28/NAMASTE-REACT/tree/main#readme"
+}
